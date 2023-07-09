@@ -1,0 +1,9 @@
+<suite name ="suite" parallel ="methods">
+    <test name ="test" thread-count="5">
+        <classes>
+            <class name ="org.example.Ex_3_Extent_Report_Parallel_Execution_Pass">
+
+            </class>
+        </classes>
+    </test>
+</suite>
